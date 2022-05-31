@@ -1,0 +1,11 @@
+discrete mathematics classes || Zajęcia z matematyki dyskretnej podczas studiów
+
+zadanie 2.  is about writing a program that implements functions:
+- entering the function n times in tables;
+- constructing a boolean expression that corresponds to the entered boolean function
+- optimizing boolean expressions
+-constructing logical networks that implement optimized Boolean expressions (constructing logical networks for optimized expressions can be performed in available software)
+
+zadanie 3.  write a program e that implements such functions:
+- introduction of graphs of the selected type, given by the adjacency or incident matrix (and for weighted graphs, additional input of weights)
+- implementation of the selected algorithm for the above type of graphs
